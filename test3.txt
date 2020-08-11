@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Will there be conflicts?
+=======
+Trying conflicts.
+>>>>>>> a6498b31702018e0d42e5bc39cab54520f5f5dd2
