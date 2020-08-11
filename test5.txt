@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Let's see what happens.
-=======
-More conflicts.
->>>>>>> 6efae33b1673ca7fe02caa8476026de460209a69
+Hello world!
